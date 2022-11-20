@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello there 👋
+
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img align="top" src="https://github-readme-stats.vercel.app/api?username=Nemo1166&show_icons=true&theme=buefy&hide_border=true" /></a>  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nemo1166&layout=compact&theme=buefy&hide_border=true" /> 
+
+
 
 <!--
 **Nemo1166/Nemo1166** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
