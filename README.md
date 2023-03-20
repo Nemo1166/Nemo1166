@@ -1,5 +1,10 @@
 ### Hello there 👋
 
+- Currently stuudying at JSNU.
+- Looking for a PhD position.
+- Skills: python/pytorch, vue.js/js/ts, MATLAB, etc. 
+- 📫: [Email me](mailto:zgx116@jsnu.edu.cn)
+
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="top" src="https://github-readme-stats-mwjs.vercel.app/api?username=Nemo1166&show_icons=true&theme=buefy&hide_border=true" /></a> | <img align="top" src="https://github-readme-stats-mwjs.vercel.app/api/top-langs/?username=Nemo1166&layout=compact&theme=buefy&hide_border=true&langs_count=8&hide=javascript,html,java,css,dockerfile,ruby" /> |
 | ------------- | ------------- |
 
