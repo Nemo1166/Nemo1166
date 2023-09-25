@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-- Currently stuudying at JSNU.
+- Graduated from JSNU.
 - Looking for a PhD position.
 - Skills: python/pytorch, vue.js/js/ts, MATLAB, etc. 
 - 📫: [Email me](mailto:zgx116@jsnu.edu.cn)
