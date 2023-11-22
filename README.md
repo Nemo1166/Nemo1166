@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 - Graduated from JSNU.
-- Looking for a PhD position.
+- Data Analyst@UoR
 - Skills: python/pytorch, vue.js/js/ts, MATLAB, etc. 
 - 📫: [Email me](mailto:zhangguoxi1166@gmail.com)
 
