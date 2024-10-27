@@ -15,31 +15,31 @@ I am data analyst and (mainly) python programmer.
 
 ### Data Science
 
-[![My Skills](https://skillicons.dev/icons?i=python,anaconda,sklearn,numpy,pandas,pytorch,tensorflow,matlab,r,mysql,sqlite&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,anaconda,sklearn,numpy,pandas,pytorch,tensorflow,matlab,r,mysql,sqlite&perline=9&theme=light)](https://skillicons.dev)
 
 ### Frontend dev
 
-[![My Skills](https://skillicons.dev/icons?i=vue,html,css,ts,sass,vite&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vue,html,css,ts,sass,vite&perline=9&theme=light)](https://skillicons.dev)
 
 ### Backend dev
 
-[![My Skills](https://skillicons.dev/icons?i=flask,nodejs&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flask,nodejs&perline=9&theme=light)](https://skillicons.dev)
 
 ### Other Tools / Languages
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,md,latex,vercel,git,regex&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,md,latex,vercel,git,regex&perline=9&theme=light)](https://skillicons.dev)
 
 ### Multimedia
 
-[![My Skills](https://skillicons.dev/icons?i=ps,pr,ae,au)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ps,pr,ae,au&theme=light)](https://skillicons.dev)
 
 ### For fun
 
-[![My Skills](https://skillicons.dev/icons?i=godot)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=godot&theme=light)](https://skillicons.dev)
 
 ### OS using
 
-[![My Skills](https://skillicons.dev/icons?i=windows,apple,debian)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows,apple,debian&theme=light)](https://skillicons.dev)
 
 
 <!--
