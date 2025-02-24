@@ -15,15 +15,15 @@ I am data analyst and (mainly) python programmer.
 
 ### Data Science
 
-[![My Skills](https://skillicons.dev/icons?i=python,anaconda,sklearn,numpy,pandas,pytorch,tensorflow,matlab,r,mysql,sqlite&perline=9&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,anaconda,sklearn,numpy,pandas,pytorch,tensorflow,matlab,r,mysql,sqlite&perline=12&theme=light)](https://skillicons.dev)
 
 ### Frontend / Backend
 
-[![My Skills](https://skillicons.dev/icons?i=vue,html,css,ts,sass,vite,flask,nodejs&perline=6&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vue,html,css,ts,sass,vite,flask,nodejs&perline=12&theme=light)](https://skillicons.dev)
 
 ### Miscellaneous
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,md,latex,vercel,git,regex,ps,pr,ae,au&perline=6&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,md,latex,vercel,git,regex,ps,pr,ae,au&perline=12&theme=light)](https://skillicons.dev)
 
 ### For fun
 
@@ -33,6 +33,15 @@ I am data analyst and (mainly) python programmer.
 
 [![My Skills](https://skillicons.dev/icons?i=windows,apple,debian&theme=light)](https://skillicons.dev)
 
+> *天灾肆虐天地泣，故土难存息。*
+> 
+> *星火离乡踏荒脊，新途启朝夕。*
+> 
+> *万舰破穹共执炬，长夜终有曦。*
+> 
+> *誓越重渊斩荆棘，生死何所惧。*
+> 
+> *终焉未至终不屈，家园铭心躯。*
 
 <!--
 **Nemo1166/Nemo1166** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
